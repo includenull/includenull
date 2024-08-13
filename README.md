@@ -16,7 +16,7 @@ Hello there. I'm a software engineer based in London. I have been building websi
 - Digital items since 2001. **NFTs** since 2017.
 - Making the world a better place, one block at a time.
 - **Pop!_OS** for work, Windows for gaming.
-- Huge **BABYMETAL** fan 🤘🏻🦊🤘🏻.
+- Huge **[BABYMETAL](https://www.youtube.com/watch?v=4hSiQHPbsbE)** fan 🤘🏻🦊🤘🏻.
 
 ## 📝 Latest Blog Articles
 
