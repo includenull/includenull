@@ -43,3 +43,7 @@ Hello there. I'm a software engineer based in London. I have been building websi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="30" height="30" />
 </p>
+
+## 🎧 What I'm Listening To
+
+[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=includenull&count=3&header_size=none&bg_color=0d1117)](https://www.last.fm/user/includenull)
