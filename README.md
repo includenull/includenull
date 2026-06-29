@@ -1,4 +1,4 @@
-## include(null); <img valign="middle" src="gb-wls.png" alt="Wales" width="30" height="30" />
+# include(null); <img valign="middle" src="gb-wls.png" alt="Wales" width="30" height="30" />
 
 Hello there. I'm a software engineer based in London. I have been building websites since I was eleven and have a passion for computers, servers, and networking.
 
@@ -6,25 +6,23 @@ Hello there. I'm a software engineer based in London. I have been building websi
 <a href="https://app.daily.dev/includenull" target="_blank"><img src="https://img.shields.io/badge/-%40includenull-000000?style=flat-square&logo=daily.dev&logoColor=FFFFFF&labelColor=%23000000" alt="daily.dev Badge"></a>
 <a href="https://onblock.dev" target="_blank"><img src="https://img.shields.io/badge/-onblock.dev-2962FF?style=flat-square&logo=hashnode&logoColor=FFFFFF&labelColor=%232962FF&link=https%3A%2F%2Fonblock.dev" alt="Website Badge"></a>
 
-<img align="right" src="pedro-raccoon.gif" width="300" />
-
-## 🤓 A Few Quick Facts
+### 🤓 A Few Quick Facts
 
 - Currently building a NFT and block explorer for the WAX Blockchain at **[waxitems.com](https://waxitems.com)**.
-- I've maintained a **homelab** for many years including my 200 TB Unraid server.
+- I've maintained a **homelab** for many years including my 200 TB Unraid server. <img align="right" src="pedro-raccoon.gif" width="300" />
 - I write articles about building on the WAX Blockchain on **[onblock.dev](https://onblock.dev)**.
 - Digital items since 2001. **NFTs** since 2017.
 - Making the world a better place, one block at a time.
-- **Pop!_OS** for work, Windows for gaming.
+- Hate macOS, tolerate Windows, want to love Linux.
 - Huge **[BABYMETAL](https://www.youtube.com/watch?v=4hSiQHPbsbE)** fan 🤘🏻🦊🤘🏻.
 
-## 📝 Latest Blog Articles
+### 📝 Latest Blog Articles
 
 - [Working with the Atomic API](https://onblock.dev/working-with-the-atomic-api)
 - [Accepting NFT Deposits in a WAX Smart Contract](https://onblock.dev/accepting-nft-deposits-in-a-smart-contract)
 - [Communicating with the WAX Blockchain](https://onblock.dev/communicating-with-the-wax-blockchain)
 
-## 🔧 Some Tools I Use
+### 🔧 Some Tools I Use
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30" />
@@ -44,6 +42,6 @@ Hello there. I'm a software engineer based in London. I have been building websi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="30" height="30" />
 </p>
 
-## 🎧 What I'm Listening To
+### 🎧 What I'm Listening To
 
 [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=includenull&count=3&header_size=none&bg_color=0d1117)](https://www.last.fm/user/includenull)
